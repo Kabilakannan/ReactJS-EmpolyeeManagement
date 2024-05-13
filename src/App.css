@@ -1,0 +1,15 @@
+.footer{
+  position:absolute;
+  width:100%;
+  color:white;
+  background-color: black;
+  left:0;
+  bottom:0;
+  text-align: center;
+  height:50px;
+}
+
+.emoji{
+  color:rgba(225, 255, 0, 0.854);
+  height:30px;
+}
